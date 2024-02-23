@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amith B V and I'm a passionate frontend developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Amith B V and I'm a passionate frontend developer, from India!</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-origina.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-origina.svg" height="30" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
