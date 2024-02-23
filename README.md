@@ -81,10 +81,10 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=AmithBV0606&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmithBV0606&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmithBV0606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithBV0606&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=AmithBV0606&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmithBV0606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" height="260" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmithBV0606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true&order=2" height="270" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithBV0606&radius=10&theme=vue&area=true&order=5&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
 </div>
 
 ###
