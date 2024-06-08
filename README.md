@@ -50,34 +50,6 @@
 
 ###
 
-<h2 align="left">Connect with me :</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amith-b-v-151a281b4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
-  <a href="https://www.hackerrank.com/profile/amithrao0606" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="65" height="50" alt="hackerrank logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
-  </a>
-  <a href="https://web.telegram.org/a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="65" height="50" alt="telegram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100016370743126" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/amith_rao_01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Stats :</h2>
 
 ###
