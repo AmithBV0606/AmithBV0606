@@ -14,12 +14,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmithBV0606.AmithBV0606&"  />
-</div>
-
-###
-
 <h3 align="left">📄Languages :</h3>
 
 ###
