@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">My name is Amith B V and I'm a Frontend developer from Bangalore, India.</p>
-
-###
-
-<h2 align="left">About me</h2>
+<p align="left">👨‍💻 My name is Amith B V and I'm a Frontend developer from Bangalore, India.</p>
 
 ###
 
