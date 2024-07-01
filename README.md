@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 My name is Amith B V and I'm a Frontend developer from Bangalore, India.</p>
-
-###
-
-<p align="left">✨ Creating bugs since 2001.<br>📚 I'm currently learning React.<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
+<p align="left">👨‍💻 My name is Amith B V and I'm a Frontend developer from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>📚 I'm currently learning React.<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
 
 ###
 
