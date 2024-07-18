@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=999&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amith%F0%9F%91%8B;A+Frontend+Engineer!!)](https://git.io/typing-svg)
 
 ###
 
