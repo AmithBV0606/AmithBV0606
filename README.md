@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=999&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amith%F0%9F%91%8B;A+Frontend+Engineer!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1500&color=2EC4F7&width=435&lines=Hii%2C+I'm+Amith+%F0%9F%91%8B;I'm+a+Full-Stack+Engineer!!)](https://git.io/typing-svg)
 
 ###
 
-<p align="left">👨‍💻 I'm a Frontend developer from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
+<p align="left">👨‍💻 I'm a Full-stack developer from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
 
 ###
 
