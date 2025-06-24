@@ -97,3 +97,5 @@
 </table>
 
 ###
+
+Icons : <a href="https://skill-icons-web.vercel.app/" target="_blank">Skill Icons from Vercel</a>
