@@ -6,47 +6,56 @@
 
 ###
 
-<h3 align="left">📄Languages :</h3>
+## here's my tech stack ⚙️
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🛠 Tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-</div>
+<table>
+  <tr>
+    <td>Programming:</td>
+    <td>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="go" width="40" height="40"/> </a>&nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>Frontend:</td>
+    <td> <img src="https://go-skill-icons.vercel.app/api/icons?i=html"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=css"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=js"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=react"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=next"  width="40" height="40"/> </a>&nbsp; 
+    </td>
+  </tr>
+  <tr>
+    <td>UI Libraries & Frameworks:</td>
+    <td> 
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://github.com/user-attachments/assets/37608361-49c7-4e82-8b61-fc8076c9bb67" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>Backend:</td>
+    <td>
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>Database:</td>
+    <td> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"  width="40" height="40"/> </a>&nbsp; 
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"  width="40" height="40"/> </a>&nbsp;
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=redis"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>Tools:</td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bash"  width="40" height="40"/> </a>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman"  width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
+</table>
 
 ###
