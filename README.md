@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a Full-stack developer from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
+<p align="left">👨‍💻 I'm a Full-stack developer from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br> 💪 Strength : Quick Learner, Tech Enthusiast</p>
 
 ###
 
@@ -13,20 +13,17 @@
     <td>Programming:</td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="go" width="40" height="40"/> &nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="cplusplus" width="40" height="40"/> &nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=js"  width="40" height="40"/> &nbsp; 
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts"  width="40" height="40"/> &nbsp; 
     </td>
   </tr>
   
   <tr>
     <td>Frontend:</td>
     <td> 
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html"  width="40" height="40"/> &nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=css"  width="40" height="40"/> &nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=js"  width="40" height="40"/> &nbsp; 
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts"  width="40" height="40"/> &nbsp; 
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react"  width="40" height="40"/> &nbsp; 
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=next"  width="40" height="40"/> &nbsp; 
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark&perline=15" alt="My Skills" /> &nbsp; 
     </td>
   </tr>
   
@@ -67,20 +64,20 @@
     </td>
   </tr>
 
+  <tr>
+    <td>Deployments:</td>
+    <td> 
+      <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=15" alt="My Skills" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark&perline=15" alt="My Skills" /> &nbsp;
+    </td>
+  </tr>
+
    <tr>
     <td>Package Managers:</td>
     <td> 
       <img src="https://skillicons.dev/icons?i=npm&theme=dark&perline=15" alt="My Skills" /> &nbsp;
       <img src="https://skillicons.dev/icons?i=pnpm&theme=dark&perline=15" alt="My Skills" /> &nbsp;
       <img src="https://skillicons.dev/icons?i=yarn&theme=dark&perline=15" alt="My Skills" /> &nbsp;
-    </td>
-  </tr>
-
-  <tr>
-    <td>Moderns Deployments:</td>
-    <td> 
-      <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=15" alt="My Skills" /> &nbsp;
-      <img src="https://skillicons.dev/icons?i=vercel&theme=dark&perline=15" alt="My Skills" /> &nbsp;
     </td>
   </tr>
   
