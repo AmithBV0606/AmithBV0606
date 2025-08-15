@@ -32,6 +32,7 @@
     <td> 
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind"  width="40" height="40"/> &nbsp;
       <img src="https://github.com/user-attachments/assets/37608361-49c7-4e82-8b61-fc8076c9bb67" width="40" height="40" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" alt="My Skills" /> &nbsp;
     </td>
   </tr>
   
@@ -42,6 +43,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"  width="40" height="40"/> &nbsp;
       <img src="https://skillicons.dev/icons?i=bun&theme=dark&perline=15" alt="My Skills" /> &nbsp;
       <img src="https://skillicons.dev/icons?i=nestjs&theme=dark&perline=15" alt="My Skills" /> &nbsp;
+      <img src="https://skillicons.dev/icons?i=django&theme=dark&perline=15" alt="My Skills" /> &nbsp;
     </td>
   </tr>
   
